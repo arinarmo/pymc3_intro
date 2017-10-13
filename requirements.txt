@@ -1,0 +1,6 @@
+ujson
+scipy
+pandas
+numpy
+jupyter
+pymc3
