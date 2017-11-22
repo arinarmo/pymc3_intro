@@ -3,4 +3,6 @@ scipy
 pandas
 numpy
 jupyter
+jupyterlab
 pymc3
+matplotlib
